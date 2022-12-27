@@ -1,2 +1,2 @@
 # SnakeGame
-this is 
+this is a simple snake game website
